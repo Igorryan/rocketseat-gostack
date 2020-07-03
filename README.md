@@ -21,4 +21,6 @@
 - [CRUD no ReactJS](https://github.com/Igorryan/rocketseat-gostack/tree/master/desafio-reactjs-crud)
 - [Navegação e filtros no React Native](https://github.com/Igorryan/rocketseat-gostack/tree/master/react-native-delivery).
 
-Feito com 💜 by Igor Ryan :wave:
+<div align="center">
+  <sub>Feito com ❤︎ por <a href="https://github.com/igorryan">Igor Ryan</a>
+</div>
