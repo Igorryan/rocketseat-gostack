@@ -10,21 +10,15 @@
 
 ## Table of Contents
 
-- [00 - Frequently asked questions about the challenges](https://github.com/rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios)
-- [01 - Planning My Studies](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-01/README.en.md)
-- [02 - Node.js Concepts](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs/README.en.md)
-- [03 - ReactJS Concepts](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs)
-- [04 - React Native Concepts](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native)
-- [05 - Node.js Fundamentals](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-nodejs)
-- [06 - Database and Files Upload with NodeJS](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-upload)
-- [07 - ReactJS Fundamentals](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs)
-- [08 - React Native Fundamentals](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native)
-- [09 - Database relationships in Node.js](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-relations)
+- [Node.js Concepts](https://github.com/Igorryan/rocketseat-gostack/tree/master/conceitos-nodejs)
+- [ReactJS Concepts](https://github.com/Igorryan/rocketseat-gostack/tree/master/conceitos-reactjs)
+- [React Native Concepts](https://github.com/Igorryan/rocketseat-gostack/tree/master/conceitos-react-native)
+- [Node.js Fundamentals](https://github.com/Igorryan/rocketseat-gostack/tree/master/fundamentos-node-typescript)
+- [Database and Files Upload with NodeJS](https://github.com/Igorryan/rocketseat-gostack/tree/master/desafio-database-upload)
+- [ReactJS Fundamentals](https://github.com/Igorryan/rocketseat-gostack/tree/master/fundamentos-reactjs)
+- [React Native Fundamentals](https://github.com/Igorryan/rocketseat-gostack/tree/master/fundamentos-react-native)
+- [Database relationships in Node.js](https://github.com/Igorryan/rocketseat-gostack/tree/master/desafio-typeorm-relations)
+- [ReactJS CRUD](https://github.com/Igorryan/rocketseat-gostack/tree/master/desafio-reactjs-crud)
+- [React Native Navigation and filters](https://github.com/Igorryan/rocketseat-gostack/tree/master/react-native-delivery).
 
-## :memo: Licence
-
-This project is under MIT licence. See the archive [LICENSE](LICENSE) to more details.
-
----
-
-Made with 💜 by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Made with 💜 by Igor Ryan :wave:
